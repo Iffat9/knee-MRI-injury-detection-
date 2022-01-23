@@ -25,6 +25,8 @@ in Meniscus
 397 positive cases
 733 negative 
 
+https://github.com/Iffat9/knee-MRI-injury-detection-app next part.
+
 For the detail explantion of this project you can have a look at the video:
 https://drive.google.com/file/d/1_QHE1nMp-gCUjwo6KHvgNgTQPDEtBbZ3/view?usp=sharing
 
